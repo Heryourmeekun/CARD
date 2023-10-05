@@ -1,0 +1,161 @@
+.whole{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    background-color: wheat;
+}
+.body{
+    background-image:linear-gradient( to right, rgb(54, 6, 54),rgb(4, 4, 54)) ;
+    width: 50vw;
+    height: 100vh;
+}
+.firstcard{
+    background-image: linear-gradient( to right, cyan,rgb(233, 140, 233),rgb(209, 71, 71),blueviolet,purple);
+    position: relative;
+    top: 80px;
+    
+    position: relative;
+    left: 120px;
+    border-radius: 10px;
+    height: 35vh;
+    width: 30vw;}
+  .white{
+   width: 30px;
+   height: 40px;
+   width: 40px;
+   background-color: white;
+   border-radius: 50px;
+   position: relative;
+   top: 30px;
+   left: 30px;
+  }  
+
+ul{
+    list-style: none;
+    display: flex;
+  
+    gap: 30px;
+    position: relative;
+    top:100px;
+    position: relative;
+    left: 55px; 
+    color: white;
+}
+.jane{
+position: relative;
+top: 100px;
+display: flex;
+position: relative;
+left: 30px;
+color: white;
+font-size: x-small;
+}
+span{
+  position: relative; 
+  left: 180px;
+
+}
+.side{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+ .name{
+   
+    position: relative;
+     top: 120px;
+} 
+.secondcard{
+    background-color: rgb(176, 226, 224);
+    position: relative;
+    bottom: 180px;
+    position: relative;
+    right: 400px;
+    border-radius: 10px;
+    height: 50vh;
+    width: 30vw;
+}
+input{
+    width: 100%;
+    position: relative;
+    left: 50px;
+}
+
+
+.sum{
+    padding: 5px 100px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color:navy;
+    color: white;
+    margin-top: 30px;
+    position: relative;
+    left: 50px;
+}
+.lol{
+    padding: 15px 50px;
+    background-color: black;
+    position: relative;
+    top: 20px;
+}
+.kig{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+.kig2{
+    display: flex;
+    flex-direction: column;
+     justify-content: center; 
+    
+    height: 100vh;
+    margin: auto;
+}
+.div{
+    display: flex;
+    flex-direction: row;
+}
+label{
+    font-size: x-small;
+    
+}
+.mango{
+   
+    margin-left: 35px;
+    background-color: gray;
+    position: relative;
+    top: 20px;
+    text-align: right;
+    width: 80%;
+    height: 30px;
+    justify-content: center;
+    border-radius: 5px;
+    color: white;
+}
+h5{
+    width: 259px;
+    position: relative;
+    top: 80px;
+    font-size: x-small;
+    position: relative;
+    left: 80px;
+}
+b{
+    position: relative;
+    right: 40px;
+}
+.li{
+    position: relative;
+    right: 55px; 
+}
+.mmm{
+    position: relative;
+    left: 50px;
+}
+
